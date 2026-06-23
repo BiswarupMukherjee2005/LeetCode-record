@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
