@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1331-rank-transform-of-an-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
