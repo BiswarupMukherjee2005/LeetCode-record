@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1331-rank-transform-of-an-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
