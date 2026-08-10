@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -91,4 +93,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
