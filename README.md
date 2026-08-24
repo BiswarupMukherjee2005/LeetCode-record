@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1331-rank-transform-of-an-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -104,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -120,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
