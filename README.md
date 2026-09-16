@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1386-cinema-seat-allocation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
