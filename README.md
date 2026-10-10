@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1331-rank-transform-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1386-cinema-seat-allocation) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
