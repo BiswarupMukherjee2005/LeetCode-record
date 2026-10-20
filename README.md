@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
