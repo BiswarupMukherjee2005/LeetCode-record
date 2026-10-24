@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3524-find-x-value-of-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3524-find-x-value-of-array-i) |
