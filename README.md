@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1872-stone-game-viii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
