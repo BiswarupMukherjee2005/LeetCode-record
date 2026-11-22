@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2942-find-words-containing-character](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BiswarupMukherjee2005/LeetCode-record/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
